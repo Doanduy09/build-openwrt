@@ -16,4 +16,5 @@
 # Add a feed source
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+echo 'src-git modemfeed https://github.com/koshev-msk/modemfeed.git' >>feeds.conf.default
 
